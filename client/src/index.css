@@ -1,0 +1,22 @@
+.text-center {
+  text-align: center;
+}
+.btn-danger {
+  background: #ff5656;
+  color: white;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+
+.btn-edit {
+  text-decoration: none;
+  background: #476ae9;
+  padding: 2px 10px;
+  color: white;
+}
+.col-md-4 {
+  width: 30%;
+}
